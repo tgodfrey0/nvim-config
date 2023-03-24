@@ -410,10 +410,8 @@ end
 local servers = {
   clangd = {},
   cmake = {},
-  -- gopls = {},
-  -- pyright = {},
   rust_analyzer = {},
-  -- tsserver = {}, 
+  jdtls = {},
 }
 
 -- Setup neovim lua configuration
